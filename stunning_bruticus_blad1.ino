@@ -1,6 +1,5 @@
 // C++ code
-// Feito no TinkerCad
-// Sensor de estacionamento
+//
 
 int trig = 3;
 int echo = 2;
